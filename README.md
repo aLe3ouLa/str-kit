@@ -8,7 +8,7 @@
 ## Usage
 
 ```javascript
-npm install @ale3oulaa/str-kit;
+npm install @ale3oulaa/str-kit
 ```
 
 #### removeSpaces ( str )
@@ -20,4 +20,5 @@ const strkit = require("@ale3oulaa/str-kit");
 
 strkit("Give me some space!");
 //->Givemesomespace!
+
 ```
