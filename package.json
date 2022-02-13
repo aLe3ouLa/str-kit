@@ -4,7 +4,7 @@
   "description": "Utility functions for string manipulation",
   "license": "MIT",
   "repository": "ale3oula/str-kit",
-  "main": "index.js",
+  "main": "./lib",
   "keywords": [
     "npm",
     "package",
