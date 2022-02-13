@@ -1,21 +1,23 @@
-# str-kit
+# String kit: A library of string utilities
 
 [![npm(scoped)](https://img.shields.io/npm/v/@ale3oulaa/str-kit.svg)](https://www.npmjs.com/package/@ale3oulaa/str-kit)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@ale3oulaa/str-kit.svg)](https://www.npmjs.com/package/@ale3oulaa/str-kit)
 
-String utilities
+> A library of string utilities
 
-# Install
+## Usage
 
-```npm install @ale3oulaa/str-kit```
+```javascript
+npm install @ale3oulaa/str-kit;
+```
 
-# Usage
+#### removeSpaces ( str )
 
-```js
+
+```javascript
 
 const strkit = require("@ale3oulaa/str-kit");
 
 strkit("Give me some space!");
 //->Givemesomespace!
-
 ```

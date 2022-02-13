@@ -1,0 +1,41 @@
+{
+  "name": "@ale3oulaa/str-kit/reverse",
+  "version": "0.0.0",
+  "description": "Reverses a string",
+  "license": "MIT",
+  "author": {
+    "name": "Alexandra Barka",
+    "url": "ale3oula.github.io"
+  },
+  "main": "./lib",
+  "types": "./docs/types",
+  "scripts": {},
+  "homepage": "https://github.com/ale3oulaa/str-kit",
+  "bugs": {
+    "url": "https://github.com/ale3oulaa/str-kit/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "os": [
+    "aix",
+    "darwin",
+    "freebsd",
+    "linux",
+    "macos",
+    "openbsd",
+    "sunos",
+    "win32",
+    "windows"
+  ],
+  "keywords": [
+    "stdstring",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "string",
+    "str",
+    "reverse",
+    "flip"
+  ]
+}
