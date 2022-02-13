@@ -29,7 +29,7 @@ function reverse( str ) {
 		return '';
 	}
 
-	return str.split().reverse();
+	return str.split("").reverse().join("");
 }
 
 
