@@ -17,4 +17,4 @@
 */
 
 var reverseString = require( './main.js' );
-module.exports = reverse;
+module.exports = reverseString;

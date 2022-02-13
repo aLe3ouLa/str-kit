@@ -1,5 +1,5 @@
 
 'use strict';
 
-var removeSpaces = require( './main.js' );
+var removeSpaces = require( './removeSpaces.js' );
 module.exports = removeSpaces;
